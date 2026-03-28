@@ -1,0 +1,5 @@
+# Variáveis sensíveis
+.env
+#arquivos temporarios desnecessários
+venv/
+__pycache__/

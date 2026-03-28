@@ -1,15 +1,18 @@
 import discord
 import requests
-# Substitua pelo token do seu bot do Discord
-TOKEN = ""
+import os
+from dotenv import load_dotenv
+#carrega as variáveis de ambiente do arquivo .env
+load_dotenv()
+TOKEN = os.getenv("DISCORD_TOKEN")
+# URL de configuração do seu agente de IA, certifique-se de que o agente esteja rodando e acessível nesse endereço
+API_URL = os.getenv("API_URL")
+
 
 intents = discord.Intents.default()
 intents.message_content = True
 
 client = discord.Client(intents=intents)
-
-# URL de configuração do seu agente de IA, certifique-se de que o agente esteja rodando e acessível nesse endereço
-API_URL = ""
 
 @client.event
 async def on_ready():
