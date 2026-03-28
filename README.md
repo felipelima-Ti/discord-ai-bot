@@ -4,7 +4,7 @@ Um bot de Discord inteligente conectado a um agente de IA local, capaz de respon
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 *  Responde mensagens de usuários no Discord
 *  Inteligência artificial local (sem custos de API)
@@ -14,7 +14,7 @@ Um bot de Discord inteligente conectado a um agente de IA local, capaz de respon
 
 ---
 
-## 🧠 Arquitetura
+##  Arquitetura
 
 ```
 Discord → Bot (Python) → API (FastAPI) → IA Local (Ollama)
@@ -44,7 +44,7 @@ agent/
 
 ---
 
-## 🧪 Instalação
+##  Instalação
 
 ### 1. Clone o repositório
 
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤖 Configuração
+##  Configuração
 
 ### 1. Crie o arquivo `.env`
 
@@ -92,7 +92,7 @@ API_URL = "http://127.0.0.1:8000/chat"
 
 ---
 
-## 🧠 Rodando a IA local
+##  Rodando a IA local
 
 Instale o Ollama e execute:
 
@@ -102,7 +102,7 @@ ollama run llama3
 
 ---
 
-## ▶️ Executando o projeto
+## ▶ Executando o projeto
 
 ### 1. Inicie o agente
 
@@ -120,7 +120,7 @@ python bot.py
 
 ---
 
-## 💬 Como usar
+##  Como usar
 
 No Discord:
 
@@ -140,7 +140,7 @@ O bot responderá utilizando IA local.
 
 ---
 
-## 🔥 Melhorias futuras
+##  Melhorias futuras
 
 *  Memória por usuário
 *  Deploy online 24h
@@ -149,13 +149,13 @@ O bot responderá utilizando IA local.
 
 ---
 
-## 📜 Licença
+##  Licença
 
 Este projeto é open-source e pode ser utilizado livremente para fins educacionais e comerciais.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por mim 
 Sinta-se livre para ajudar!
