@@ -1,0 +1,5 @@
+discord.py
+requests
+fastapi
+uvicorn
+python-dotenv
