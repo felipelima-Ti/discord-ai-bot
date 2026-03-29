@@ -158,6 +158,6 @@ Este projeto é open-source e pode ser utilizado livremente para fins educaciona
 ##  Autor
 
 Desenvolvido por mim 
-Sinta-se livre para ajudar!
+Sinta-se livre para me ajudar!
 
 ---
