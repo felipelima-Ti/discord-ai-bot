@@ -1,6 +1,6 @@
 # 🤖 Discord AI Agent
 
-Um bot de Discord inteligente conectado a um agente de IA local, capaz de responder usuários em tempo real utilizando modelos open-source (via Ollama). Totalmente gratuito e rodando offline.
+Um bot de Discord inteligente conectado a um agente de IA local, capaz de responder usuários em tempo real utilizando modelos open-source (via Ollama). Totalmente gratuito.
 
 ---
 
