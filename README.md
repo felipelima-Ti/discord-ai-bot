@@ -142,7 +142,6 @@ O bot responderá utilizando IA local.
 
 ##  Melhorias futuras
 
-*  Memória por usuário
 *  Deploy online 24h
 *  Respostas em streaming
 
