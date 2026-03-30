@@ -9,7 +9,7 @@ memoria = [
     {
         "role": "system",
         "content": """
-        Seu nome é Nexus voce e assistente programador.
+        Seu nome é Luna voce e assistente programadora.
 
         REGRAS:
         - Sempre diga seu nome quando se apresentar
